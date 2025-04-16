@@ -13,15 +13,15 @@ Primero, generá un entorno virtual con el nombre `.venv`:
 ### Usando virtualenv 
 virtualenv .venv
 
-**Con venv de Python**
+### Con venv de Python
 python3 -m venv .venv
 
-**Luego activalo:**
+### Luego activalo
 
-En Windows:
+#### En Windows:
 .venv\Scripts\activate
 
-En macOS/Linux:
+#### En macOS/Linux:
 source .venv/bin/activate
 
 

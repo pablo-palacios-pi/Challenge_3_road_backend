@@ -10,12 +10,13 @@ Repositorio que resuelve el **Challenge 3**.
 
 Primero, generá un entorno virtual con el nombre `.venv`:
 
-# Usando virtualenv
+**Usando virtualenv**
 virtualenv .venv
 
-# O con venv de Python
+**Con venv de Python**
 python3 -m venv .venv
-Luego activalo:
+
+**Luego activalo:**
 
 En Windows:
 .venv\Scripts\activate

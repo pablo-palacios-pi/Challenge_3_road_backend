@@ -10,7 +10,7 @@ Repositorio que resuelve el **Challenge 3**.
 
 Primero, generá un entorno virtual con el nombre `.venv`:
 
-**Usando virtualenv**
+### Usando virtualenv 
 virtualenv .venv
 
 **Con venv de Python**
